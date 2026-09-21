@@ -3,7 +3,7 @@
 	<PropertyGroup>
 		<TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
 		<PackageId>XFrame.Kafka.Producer</PackageId>
-		<Version>10.0.0</Version>
+		<Version>10.0.1</Version>
 		<Authors>Lwandile Mfundisi</Authors>
 		<Description>Kafka producer integration primitives for .NET applications.</Description>
 		<IsPackable>true</IsPackable>
@@ -18,7 +18,7 @@
 		</ItemGroup>
 	</Target>
 	<ItemGroup>
-		<PackageReference Include="XFrame.Kafka" Version="10.0.0" />
+		<PackageReference Include="XFrame.Kafka" Version="10.0.1" />
 	</ItemGroup>
 
 </Project>
